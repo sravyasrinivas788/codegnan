@@ -1,0 +1,69 @@
+body{
+    
+    margin: 1%;
+    background-image: url("WhatsApp Image 2023-04-04 at 10.09.32 PM.jpeg");
+    height:100%;
+    
+    background-size: cover;
+    border-top: 5cm;
+    
+}
+.sign{
+    color:blue;
+    margin:0;
+    padding: 0;
+    position: absolute;
+    top:0px;
+    left:0px;
+
+    
+}
+
+
+
+
+hr{
+    border-color:black;
+    border-style: double;
+     width: 75%;
+    border-bottom-width: 60%;
+}
+.two{
+    font-style: italic;
+    color: brown;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.one{
+    color:darkblue;
+    display: inline;
+}
+.three1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.five{
+    color:brown;
+    margin: 10px 20px 30px 40px;
+
+    
+}
+.fiveone{
+    color:blue;
+    font-size:larger;
+}
+.six{
+    color:black;
+    margin:10px;
+    border:5px yellow;
+    padding: 20px;
+}
+.img1{
+    position:relative;
+    border-radius:50%;
+    height: 70px;
+    right:230px;
+    bottom: 70px;
+    
+   
+
+    
+}
